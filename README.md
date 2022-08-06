@@ -1,6 +1,6 @@
 # kd-multicharacter
 
-more start plz
+more star plz
 
 qb-multicharacter for qbcore np style nopixel
 
