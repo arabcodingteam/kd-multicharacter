@@ -4,6 +4,8 @@ more star plz
 
 qb-multicharacter for qbcore np style nopixel
 
+you can use the html and conifg
+
 ![FiveM_b2189_GTAProcess_pBZ2qJ3fv0](https://user-images.githubusercontent.com/89742984/183249967-40c8f491-2c6e-43b9-b393-13266a758448.png)
 ![image](https://user-images.githubusercontent.com/89742984/183250183-cded3202-af92-48b8-a3fd-fdb9bbcdcda4.png)
 ![image](https://user-images.githubusercontent.com/89742984/183250188-9624bdea-7421-4af2-897d-aa2fea05adb4.png)
