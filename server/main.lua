@@ -1,4 +1,4 @@
-local QBCore = exports['kd-core']:GetCoreObject()
+local QBCore = exports['qb-core']:GetCoreObject()
 
 -- Functions
 
