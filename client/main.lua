@@ -1,6 +1,6 @@
 local cam = nil
 local charPed = nil
-local QBCore = exports['kd-core']:GetCoreObject()
+local QBCore = exports['qb-core']:GetCoreObject()
 
 -- Main Thread
 
