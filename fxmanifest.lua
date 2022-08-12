@@ -8,7 +8,7 @@ shared_script 'config.lua'
 client_script 'client/main.lua'
 server_scripts  {
     '@oxmysql/lib/MySQL.lua',
-    '@kd-apartments/config.lua',
+    '@qb-apartments/config.lua',
     'server/main.lua'
 }
 
@@ -23,8 +23,8 @@ files {
 }
 
 dependencies {
-    'kd-core',
-    'kd-spawn'
+    'qb-core',
+    'qb-spawn'
 }
 
 lua54 'yes'
