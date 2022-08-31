@@ -1,4 +1,4 @@
-# kd-multicharacter
+# qb-multicharacter
 
 more star plz
 
