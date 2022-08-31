@@ -2,7 +2,7 @@
 
 more star plz
 
-qb-multicharacter for qbcore np style nopixel
+qb-multicharacter with nopixel style
 
 you can use the html and conifg
 
