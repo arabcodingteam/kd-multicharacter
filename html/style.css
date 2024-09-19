@@ -26,7 +26,7 @@
     display: none;
     position: absolute;
     width: 23%;
-    height: 62%;
+    height: 52%;
     left: 1%;
     top: 0%;
     background-color: #1a2631;
@@ -54,8 +54,8 @@
 }
 
 .characters {
-    width: 96%;
-    height: 76%;
+    width: 95%;
+    height: 70%;
     overflow: scroll !important;
 }
 
@@ -105,9 +105,9 @@
 #slot-name {
     position: relative;
     color: #ffffff;
-    font-size: 16px;
-    line-height: 69px;
-    left: 17px;
+    font-size: 20px;
+    line-height: 70px;
+    left: 16px;
     font-family: 'Poppins', sans-serif;
 }
 
